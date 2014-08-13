@@ -1,0 +1,5 @@
+librutil2 (1.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- WanZhiYuan <rgwan@rocaloid.org>  Wed, 13 Aug 2014 13:32:06 +0800

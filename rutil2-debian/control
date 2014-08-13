@@ -1,0 +1,16 @@
+Source: librutil2
+Priority: extra
+Maintainer: ZhiYuan Wan <rgwan@Rocaloid.org>
+Build-Depends: debhelper (>= 8.0.0), cmake
+Standards-Version: 3.9.3
+Section: libs
+Homepage: http://www.rocaloid.org
+#Vcs-Git: git://github.org/Rocaloid/RUtil2
+
+
+Package: librutil2-dev
+Section: libdevel
+Architecture: any
+Depends:  ${misc:Depends}, libc6
+Description: Development files of LibRUtil2
+
